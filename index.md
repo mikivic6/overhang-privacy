@@ -1,13 +1,14 @@
-# Privacy Policy — Overhang Rebound
-
-Last updated: September 2026
-
 Overhang Rebound does not collect, store, or transmit any personal data.
 
 The app has no accounts, no analytics, no advertising, and no network
-connectivity. High scores, unlocked themes, and settings are saved only
-on your own device and are never sent anywhere.
+connectivity of its own. High scores, unlocked themes, and settings are
+saved only on your own device and are never sent anywhere.
 
-If you delete the app, that data is deleted with it.
+The app offers one optional in-app purchase ("Pro"), processed entirely
+by Apple through the App Store. We do not receive, see, or store your
+payment information — Apple handles the transaction and confirms the
+purchase back to the app.
+
+If you delete the app, your data is deleted with it.
 
 Contact: ravenredjk@gmail.com
